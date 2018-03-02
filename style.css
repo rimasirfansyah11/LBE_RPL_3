@@ -1,0 +1,21 @@
+.warnaPutih{
+	color: white;
+}
+.tabel{
+	background-color:red; 
+	margin:20px; 
+	padding: 5px;
+
+}
+.myDiv{
+	height: 200px;
+	background-color: yellow;
+}
+
+.tombol:hover{
+	background-color: blue;
+	transform: scale(2);
+}
+.link:visited{
+	color: yellow;
+}
